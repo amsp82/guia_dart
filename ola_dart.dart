@@ -1,6 +1,6 @@
 main() {
   print("Olá, Mundo!");
-  print("Dart!");
-  print("Alteração Debian!");
-  print("Alteração Opensuse!");
+  print("Olá, Dart!");
+  print("Olá, Debian!");
+  print("Olá, Opensuse!");
 }
